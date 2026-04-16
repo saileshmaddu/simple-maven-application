@@ -1,0 +1,15 @@
+git repo
+index.html>deeployment.yaml>dockerfile
+push to git 
+open docker desktop>enable kuberenetes
+new pipeline>script>fill
+open jenkins credintials>make 2new secret file (upload from users>kibe.config)
+build pipeline>pipeline stageview 
+
+
+git commands 
+git init
+git remote add origin<link>
+git add
+git push 
+git status
